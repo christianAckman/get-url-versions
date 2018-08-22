@@ -1,0 +1,20 @@
+{
+  "name": "get-url-versions",
+  "version": "1.0.0",
+  "description": "Get different versions of a url",
+  "main": "url.js",
+  "keywords": [
+    "get",
+    "url",
+    "http",
+    "https",
+    "www",
+    "parse"
+  ],
+  "author": "Christian Ackman <ackmanChristian@gmail.com> (http://christianAckman.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianAckman/get-url-versions.git"
+  }
+}
